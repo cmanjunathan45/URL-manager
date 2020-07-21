@@ -9,6 +9,9 @@ pyshorteners
 terminal_banner
 termcolor
 
+to install the required modules run the command
+pip install -r requirements.txt
+
 This URL manager has 2 parts...
 1)URL shorteners 
 2)URL expander
