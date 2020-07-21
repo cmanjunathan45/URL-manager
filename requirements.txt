@@ -1,0 +1,4 @@
+pyfiglet
+pyshorteners
+terminal_banner
+termcolor
